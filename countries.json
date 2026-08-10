@@ -1,0 +1,561 @@
+[
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "currency": "Indian Rupee",
+    "language": "Hindi, English",
+    "population": "1.43 Billion",
+    "history": "India became independent on 15 August 1947.",
+    "tourist": "Taj Mahal, Goa, Kerala",
+    "anthem": "Jana Gana Mana"
+  },
+  {
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "currency": "US Dollar",
+    "language": "English",
+    "population": "340 Million",
+    "history": "The United States declared independence in 1776.",
+    "tourist": "Statue of Liberty, Grand Canyon",
+    "anthem": "The Star-Spangled Banner"
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "currency": "Canadian Dollar",
+    "language": "English, French",
+    "population": "40 Million",
+    "history": "Canada became a dominion in 1867.",
+    "tourist": "Niagara Falls",
+    "anthem": "O Canada"
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "currency": "Japanese Yen",
+    "language": "Japanese",
+    "population": "123 Million",
+    "history": "Japan has one of the world's oldest monarchies.",
+    "tourist": "Mount Fuji",
+    "anthem": "Kimigayo"
+  },
+  {
+    "name": "United Kingdom",
+    "capital": "London",
+    "currency": "Pound Sterling",
+    "language": "English",
+    "population": "68 Million",
+    "history": "The UK is a constitutional monarchy.",
+    "tourist": "Big Ben",
+    "anthem": "God Save the King"
+  },
+  {
+    "name": "Australia",
+    "capital": "Canberra",
+    "currency": "Australian Dollar",
+    "language": "English",
+    "population": "27 Million",
+    "history": "Australia became a federation in 1901.",
+    "tourist": "Sydney Opera House",
+    "anthem": "Advance Australia Fair"
+  },{
+  "name": "China",
+  "capital": "Beijing",
+  "currency": "Chinese Yuan",
+  "language": "Mandarin",
+  "population": "1.4 Billion",
+  "history": "China has one of the world's oldest continuous civilizations.",
+  "tourist": "Great Wall of China, Forbidden City",
+  "anthem": "March of the Volunteers"
+},
+{
+  "name": "Germany",
+  "capital": "Berlin",
+  "currency": "Euro",
+  "language": "German",
+  "population": "84 Million",
+  "history": "Germany was reunified in 1990.",
+  "tourist": "Brandenburg Gate, Neuschwanstein Castle",
+  "anthem": "German Anthem"
+},
+{
+  "name": "France",
+  "capital": "Paris",
+  "currency": "Euro",
+  "language": "French",
+  "population": "68 Million",
+  "history": "France has played a major role in European history.",
+  "tourist": "Eiffel Tower, Louvre Museum",
+  "anthem": "La Marseillaise"
+},
+{
+  "name": "Italy",
+  "capital": "Rome",
+  "currency": "Euro",
+  "language": "Italian",
+  "population": "59 Million",
+  "history": "Italy became a unified nation in 1861.",
+  "tourist": "Colosseum, Venice",
+  "anthem": "Il Canto degli Italiani"
+},
+{
+  "name": "Spain",
+  "capital": "Madrid",
+  "currency": "Euro",
+  "language": "Spanish",
+  "population": "48 Million",
+  "history": "Spain became a major global power during the Age of Exploration.",
+  "tourist": "Sagrada Familia, Alhambra",
+  "anthem": "Marcha Real"
+},
+{
+  "name": "Brazil",
+  "capital": "Brasilia",
+  "currency": "Brazilian Real",
+  "language": "Portuguese",
+  "population": "216 Million",
+  "history": "Brazil declared independence from Portugal in 1822.",
+  "tourist": "Christ the Redeemer, Amazon Rainforest",
+  "anthem": "Brazilian National Anthem"
+},
+{
+  "name": "Mexico",
+  "capital": "Mexico City",
+  "currency": "Mexican Peso",
+  "language": "Spanish",
+  "population": "130 Million",
+  "history": "Mexico gained independence from Spain in 1821.",
+  "tourist": "Chichen Itza, Cancun",
+  "anthem": "Mexican National Anthem"
+},
+{
+  "name": "Argentina",
+  "capital": "Buenos Aires",
+  "currency": "Argentine Peso",
+  "language": "Spanish",
+  "population": "46 Million",
+  "history": "Argentina declared independence in 1816.",
+  "tourist": "Iguazu Falls, Buenos Aires",
+  "anthem": "Argentine National Anthem"
+},
+{
+  "name": "South Africa",
+  "capital": "Pretoria",
+  "currency": "South African Rand",
+  "language": "English, Zulu, Xhosa",
+  "population": "63 Million",
+  "history": "South Africa became a democratic republic in 1994.",
+  "tourist": "Table Mountain, Kruger National Park",
+  "anthem": "National Anthem of South Africa"
+},
+{
+  "name": "Egypt",
+  "capital": "Cairo",
+  "currency": "Egyptian Pound",
+  "language": "Arabic",
+  "population": "114 Million",
+  "history": "Egypt is home to one of the world's oldest civilizations.",
+  "tourist": "Pyramids of Giza, Nile River",
+  "anthem": "Bilady, Bilady, Bilady"
+},
+{
+  "name": "Nigeria",
+  "capital": "Abuja",
+  "currency": "Nigerian Naira",
+  "language": "English",
+  "population": "230 Million",
+  "history": "Nigeria gained independence from Britain in 1960.",
+  "tourist": "Zuma Rock, Yankari National Park",
+  "anthem": "Nigeria, We Hail Thee"
+},
+{
+  "name": "Kenya",
+  "capital": "Nairobi",
+  "currency": "Kenyan Shilling",
+  "language": "English, Swahili",
+  "population": "55 Million",
+  "history": "Kenya gained independence in 1963.",
+  "tourist": "Maasai Mara, Mount Kenya",
+  "anthem": "Ee Mungu Nguvu Yetu"
+},
+{
+  "name": "Ethiopia",
+  "capital": "Addis Ababa",
+  "currency": "Ethiopian Birr",
+  "language": "Amharic",
+  "population": "135 Million",
+  "history": "Ethiopia has a long recorded history and was one of Africa's historic independent states.",
+  "tourist": "Lalibela, Simien Mountains",
+  "anthem": "March Forward, Dear Mother Ethiopia"
+},
+{
+  "name": "Ghana",
+  "capital": "Accra",
+  "currency": "Ghanaian Cedi",
+  "language": "English",
+  "population": "34 Million",
+  "history": "Ghana became independent in 1957.",
+  "tourist": "Cape Coast Castle, Kakum National Park",
+  "anthem": "God Bless Our Homeland Ghana"
+},
+{
+  "name": "Morocco",
+  "capital": "Rabat",
+  "currency": "Moroccan Dirham",
+  "language": "Arabic, Amazigh",
+  "population": "37 Million",
+  "history": "Morocco gained independence from France in 1956.",
+  "tourist": "Marrakesh, Chefchaouen",
+  "anthem": "Cherifian Anthem"
+},
+{
+  "name": "Saudi Arabia",
+  "capital": "Riyadh",
+  "currency": "Saudi Riyal",
+  "language": "Arabic",
+  "population": "36 Million",
+  "history": "The Kingdom of Saudi Arabia was established in 1932.",
+  "tourist": "Al-Ula, Mecca",
+  "anthem": "Aash Al Maleek"
+},
+{
+  "name": "United Arab Emirates",
+  "capital": "Abu Dhabi",
+  "currency": "UAE Dirham",
+  "language": "Arabic",
+  "population": "10 Million",
+  "history": "The United Arab Emirates was formed in 1971.",
+  "tourist": "Burj Khalifa, Sheikh Zayed Grand Mosque",
+  "anthem": "Ishy Bilady"
+},
+{
+  "name": "Turkey",
+  "capital": "Ankara",
+  "currency": "Turkish Lira",
+  "language": "Turkish",
+  "population": "85 Million",
+  "history": "The Republic of Turkey was founded in 1923.",
+  "tourist": "Hagia Sophia, Cappadocia",
+  "anthem": "İstiklal Marşı"
+},
+{
+  "name": "Russia",
+  "capital": "Moscow",
+  "currency": "Russian Ruble",
+  "language": "Russian",
+  "population": "144 Million",
+  "history": "Russia has a long history spanning the Russian Empire and Soviet period.",
+  "tourist": "Red Square, Kremlin",
+  "anthem": "State Anthem of the Russian Federation"
+},
+{
+  "name": "South Korea",
+  "capital": "Seoul",
+  "currency": "South Korean Won",
+  "language": "Korean",
+  "population": "52 Million",
+  "history": "The Republic of Korea was established in 1948.",
+  "tourist": "Gyeongbokgung Palace, Jeju Island",
+  "anthem": "Aegukga"
+},
+{
+  "name": "North Korea",
+  "capital": "Pyongyang",
+  "currency": "North Korean Won",
+  "language": "Korean",
+  "population": "26 Million",
+  "history": "The Democratic People's Republic of Korea was established in 1948.",
+  "tourist": "Mount Paektu, Pyongyang",
+  "anthem": "Aegukka"
+},
+{
+  "name": "Indonesia",
+  "capital": "Jakarta",
+  "currency": "Indonesian Rupiah",
+  "language": "Indonesian",
+  "population": "277 Million",
+  "history": "Indonesia declared independence in 1945.",
+  "tourist": "Bali, Borobudur",
+  "anthem": "Indonesia Raya"
+},
+{
+  "name": "Thailand",
+  "capital": "Bangkok",
+  "currency": "Thai Baht",
+  "language": "Thai",
+  "population": "71 Million",
+  "history": "Thailand was formerly known as Siam.",
+  "tourist": "Grand Palace, Phuket",
+  "anthem": "Thai National Anthem"
+},
+{
+  "name": "Vietnam",
+  "capital": "Hanoi",
+  "currency": "Vietnamese Dong",
+  "language": "Vietnamese",
+  "population": "100 Million",
+  "history": "Vietnam reunified in 1976.",
+  "tourist": "Ha Long Bay, Hoi An",
+  "anthem": "Tiến Quân Ca"
+},
+{
+  "name": "Malaysia",
+  "capital": "Kuala Lumpur",
+  "currency": "Malaysian Ringgit",
+  "language": "Malay",
+  "population": "34 Million",
+  "history": "Malaysia was formed as a federation in 1963.",
+  "tourist": "Petronas Towers, Langkawi",
+  "anthem": "Negaraku"
+},
+{
+  "name": "Singapore",
+  "capital": "Singapore",
+  "currency": "Singapore Dollar",
+  "language": "English, Malay, Mandarin, Tamil",
+  "population": "6 Million",
+  "history": "Singapore became an independent republic in 1965.",
+  "tourist": "Marina Bay Sands, Gardens by the Bay",
+  "anthem": "Majulah Singapura"
+},
+{
+  "name": "New Zealand",
+  "capital": "Wellington",
+  "currency": "New Zealand Dollar",
+  "language": "English, Maori",
+  "population": "5 Million",
+  "history": "New Zealand became a self-governing colony in 1856.",
+  "tourist": "Milford Sound, Hobbiton",
+  "anthem": "God Defend New Zealand"
+},
+{
+  "name": "Pakistan",
+  "capital": "Islamabad",
+  "currency": "Pakistani Rupee",
+  "language": "Urdu, English",
+  "population": "241 Million",
+  "history": "Pakistan became independent in 1947.",
+  "tourist": "Hunza Valley, Badshahi Mosque",
+  "anthem": "Qaumi Taranah"
+},
+{
+  "name": "Bangladesh",
+  "capital": "Dhaka",
+  "currency": "Bangladeshi Taka",
+  "language": "Bengali",
+  "population": "173 Million",
+  "history": "Bangladesh became independent in 1971.",
+  "tourist": "Cox's Bazar, Sundarbans",
+  "anthem": "Amar Sonar Bangla"
+},
+{
+  "name": "Nepal",
+  "capital": "Kathmandu",
+  "currency": "Nepalese Rupee",
+  "language": "Nepali",
+  "population": "30 Million",
+  "history": "Nepal became a federal democratic republic in 2008.",
+  "tourist": "Mount Everest, Kathmandu Valley",
+  "anthem": "Sayaun Thunga Phulka"
+},
+{
+  "name": "Sri Lanka",
+  "capital": "Sri Jayawardenepura Kotte",
+  "currency": "Sri Lankan Rupee",
+  "language": "Sinhala, Tamil",
+  "population": "22 Million",
+  "history": "Sri Lanka became a republic in 1972.",
+  "tourist": "Sigiriya, Temple of the Tooth",
+  "anthem": "Sri Lanka Matha"
+},
+{
+  "name": "Afghanistan",
+  "capital": "Kabul",
+  "currency": "Afghan Afghani",
+  "language": "Pashto, Dari",
+  "population": "42 Million",
+  "history": "Afghanistan has a long history at the crossroads of Central and South Asia.",
+  "tourist": "Band-e Amir, Bamyan",
+  "anthem": "National Anthem of Afghanistan"
+},
+{
+  "name": "Iran",
+  "capital": "Tehran",
+  "currency": "Iranian Rial",
+  "language": "Persian",
+  "population": "89 Million",
+  "history": "Iran is home to the ancient Persian civilization.",
+  "tourist": "Persepolis, Isfahan",
+  "anthem": "National Anthem of Iran"
+},
+{
+  "name": "Iraq",
+  "capital": "Baghdad",
+  "currency": "Iraqi Dinar",
+  "language": "Arabic, Kurdish",
+  "population": "45 Million",
+  "history": "Iraq includes much of the ancient region of Mesopotamia.",
+  "tourist": "Babylon, Erbil Citadel",
+  "anthem": "Mawtini"
+},
+{
+  "name": "Israel",
+  "capital": "Jerusalem",
+  "currency": "Israeli New Shekel",
+  "language": "Hebrew, Arabic",
+  "population": "10 Million",
+  "history": "The State of Israel was established in 1948.",
+  "tourist": "Jerusalem, Dead Sea",
+  "anthem": "Hatikvah"
+},
+{
+  "name": "Greece",
+  "capital": "Athens",
+  "currency": "Euro",
+  "language": "Greek",
+  "population": "10 Million",
+  "history": "Ancient Greece strongly influenced Western philosophy, science and culture.",
+  "tourist": "Acropolis, Santorini",
+  "anthem": "Hymn to Liberty"
+},
+{
+  "name": "Portugal",
+  "capital": "Lisbon",
+  "currency": "Euro",
+  "language": "Portuguese",
+  "population": "10 Million",
+  "history": "Portugal was a major maritime power during the Age of Exploration.",
+  "tourist": "Lisbon, Porto",
+  "anthem": "A Portuguesa"
+},
+{
+  "name": "Netherlands",
+  "capital": "Amsterdam",
+  "currency": "Euro",
+  "language": "Dutch",
+  "population": "18 Million",
+  "history": "The Netherlands became an independent republic in the 16th century.",
+  "tourist": "Amsterdam Canals, Keukenhof",
+  "anthem": "Wilhelmus"
+},
+{
+  "name": "Switzerland",
+  "capital": "Bern",
+  "currency": "Swiss Franc",
+  "language": "German, French, Italian, Romansh",
+  "population": "9 Million",
+  "history": "Switzerland has maintained a long tradition of neutrality.",
+  "tourist": "Swiss Alps, Lake Geneva",
+  "anthem": "Swiss Psalm"
+},
+{
+  "name": "Sweden",
+  "capital": "Stockholm",
+  "currency": "Swedish Krona",
+  "language": "Swedish",
+  "population": "11 Million",
+  "history": "Sweden has been a constitutional monarchy for centuries.",
+  "tourist": "Stockholm Archipelago, Abisko",
+  "anthem": "Du gamla, Du fria"
+},
+{
+  "name": "Norway",
+  "capital": "Oslo",
+  "currency": "Norwegian Krone",
+  "language": "Norwegian",
+  "population": "6 Million",
+  "history": "Norway became fully independent from Sweden in 1905.",
+  "tourist": "Geirangerfjord, Lofoten",
+  "anthem": "Ja, vi elsker dette landet"
+},
+{
+  "name": "Denmark",
+  "capital": "Copenhagen",
+  "currency": "Danish Krone",
+  "language": "Danish",
+  "population": "6 Million",
+  "history": "Denmark is one of the world's oldest monarchies.",
+  "tourist": "Nyhavn, Tivoli Gardens",
+  "anthem": "Der er et yndigt land"
+},
+{
+  "name": "Finland",
+  "capital": "Helsinki",
+  "currency": "Euro",
+  "language": "Finnish, Swedish",
+  "population": "6 Million",
+  "history": "Finland became independent from Russia in 1917.",
+  "tourist": "Lapland, Helsinki",
+  "anthem": "Maamme"
+},
+{
+  "name": "Poland",
+  "capital": "Warsaw",
+  "currency": "Polish Zloty",
+  "language": "Polish",
+  "population": "38 Million",
+  "history": "Poland regained independence in 1918.",
+  "tourist": "Krakow, Wieliczka Salt Mine",
+  "anthem": "Mazurek Dąbrowskiego"
+},
+{
+  "name": "Ukraine",
+  "capital": "Kyiv",
+  "currency": "Ukrainian Hryvnia",
+  "language": "Ukrainian",
+  "population": "37 Million",
+  "history": "Ukraine declared independence from the Soviet Union in 1991.",
+  "tourist": "Kyiv, Carpathian Mountains",
+  "anthem": "Shche ne vmerla Ukraina"
+},
+{
+  "name": "Czech Republic",
+  "capital": "Prague",
+  "currency": "Czech Koruna",
+  "language": "Czech",
+  "population": "11 Million",
+  "history": "The Czech Republic was established in 1993 after the peaceful dissolution of Czechoslovakia.",
+  "tourist": "Prague Castle, Charles Bridge",
+  "anthem": "Kde domov můj"
+},
+{
+  "name": "Austria",
+  "capital": "Vienna",
+  "currency": "Euro",
+  "language": "German",
+  "population": "9 Million",
+  "history": "Austria became a republic in 1918.",
+  "tourist": "Schonbrunn Palace, Austrian Alps",
+  "anthem": "Land of Mountains, Land by the River"
+},
+{
+  "name": "Belgium",
+  "capital": "Brussels",
+  "currency": "Euro",
+  "language": "Dutch, French, German",
+  "population": "12 Million",
+  "history": "Belgium became independent in 1830.",
+  "tourist": "Grand Place, Bruges",
+  "anthem": "La Brabançonne"
+},
+{
+  "name": "Ireland",
+  "capital": "Dublin",
+  "currency": "Euro",
+  "language": "Irish, English",
+  "population": "5 Million",
+  "history": "Ireland became a republic in 1949.",
+  "tourist": "Cliffs of Moher, Dublin Castle",
+  "anthem": "Amhrán na bhFiann"
+},
+{
+  "name": "Chile",
+  "capital": "Santiago",
+  "currency": "Chilean Peso",
+  "language": "Spanish",
+  "population": "20 Million",
+  "history": "Chile became independent from Spain in 1818.",
+  "tourist": "Atacama Desert, Torres del Paine",
+  "anthem": "Himno Nacional de Chile"
+}
+]
