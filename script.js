@@ -18,7 +18,7 @@ async function loadCountries() {
 
     try {
 
-        const response = await fetch("data/countries.json");
+        const response = await fetch("countries.json");
 
         countries = await response.json();
 
