@@ -520,9 +520,15 @@ if (globeContainer && typeof THREE !== "undefined") {
 
     const geometry = new THREE.SphereGeometry(1, 64, 64);
 
-    const material = new THREE.MeshBasicMaterial({
-        wireframe: true
-    });
+    const textureLoader = new THREE.TextureLoader();
+
+const earthTexture = textureLoader.load(
+    "https://threejs.org/examples/textures/planets/earth_atmos_2048.jpg"
+);
+
+const material = new THREE.MeshBasicMaterial({
+    map: earthTexture
+});
 
     const globe = new THREE.Mesh(
         geometry,
