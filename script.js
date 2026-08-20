@@ -537,6 +537,30 @@ const material = new THREE.MeshBasicMaterial({
 
     scene.add(globe);
 
+    globeContainer.addEventListener("pointerdown", function(e) {
+    let startX = e.clientX;
+    let startY = e.clientY;
+
+    function move(e) {
+        const dx = e.clientX - startX;
+        const dy = e.clientY - startY;
+
+        globe.rotation.y += dx * 0.01;
+        globe.rotation.x += dy * 0.01;
+
+        startX = e.clientX;
+        startY = e.clientY;
+    }
+
+    function stop() {
+        window.removeEventListener("pointermove", move);
+        window.removeEventListener("pointerup", stop);
+    }
+
+    window.addEventListener("pointermove", move);
+    window.addEventListener("pointerup", stop);
+});
+
     function animate() {
 
         requestAnimationFrame(animate);
